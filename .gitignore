@@ -3,6 +3,7 @@ node_modules
 /dist
 Backend/env
 migrations/
+/public/webviewer
 
 # local env files
 .env.local
